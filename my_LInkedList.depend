@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1721823631 source:c:\users\marwa abdelrahman\documents\codeblocks\my_linkedlist\my_linkedlist\my_linkedlist.c
+	"my_LInkedList.h"
+	<stdlib.h>
+
+1721652875 c:\users\marwa abdelrahman\documents\codeblocks\my_linkedlist\my_linkedlist\my_linkedlist.h
+	"std_def.h"
+
+1716123883 c:\users\marwa abdelrahman\documents\codeblocks\my_linkedlist\my_linkedlist\std_def.h
+
+1721823599 source:c:\users\marwa abdelrahman\documents\codeblocks\my_linkedlist\my_linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"my_LInkedList.h"
+
